@@ -1,1 +1,1 @@
-Simple Search Movie App using TMDb API using React js
+Using Reac js to build Search Movie App using TMDb API
